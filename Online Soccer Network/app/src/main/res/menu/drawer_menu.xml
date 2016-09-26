@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item android:title="Index"
+        android:id="@+id/nav_item_index"
+        android:icon="@drawable/ic_stadium"/>
+    <item android:title="Profile"
+        android:id="@+id/nav_item_profile"
+        android:icon="@drawable/icon_profile"/>
+
+
+        <item android:title="About us"
+            android:id="@+id/nav_item_about"
+            android:icon="@drawable/info"/>
+
+</menu>
